@@ -8,5 +8,3 @@ lab1: lab1.cpp
 
 clean:
 	rm -f lab1
-
-
